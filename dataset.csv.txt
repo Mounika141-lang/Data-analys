@@ -1,0 +1,42 @@
+Name,Age,Gender,Country,Join Date,Income
+john smith,25,M,usa,1/2/2021,50000
+john smith,25,Male,USA,1-2-2021,50000
+mary jones,NaN,F,uk,2021-03-05,60000
+Robert brown,30,male,india,05/04/21,NaN
+linda white,28,Female,INDIA,12-12-2020,70000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
